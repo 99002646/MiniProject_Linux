@@ -18,12 +18,9 @@ program everytime. There is an infinite loops which asks for your input & exits 
 
 The project aims at developing a C++ application program, that allows the user to solve a printed sudoku problem using time-efficient C++ algorithms.
 
-## Algoritrhm
-Backtracking algorithm used for solving sudoku problem.
-
 ## Input
-The input to the problem will be taken either from a .csv/.text file which contains the clues and position 
-           value of the said problem in distinct formats.
+The input to the problem will be taken from .text file which contains the numbers to matrix.
+      
 ## Output
 Solution for the multi dimension matrix multiplication.
 
