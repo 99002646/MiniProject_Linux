@@ -22,3 +22,5 @@ jobs:
       run: |
         g++ matmul.cpp 
         valgrind ./all.out
+        
+        
